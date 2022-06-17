@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Agasha Bornittah</h1>
-<h3 align="left">A passionate software developer</h3>
+<h3 align="left">A passionate Full-stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bornittah&label=Profile%20views&color=0e75b6&style=flat" alt="bornittah" /> </p>
 
-- 🌱  I’m currently a software Developer student at Microverse.
+- 🌱  I’m currently a student at Microverse learning full-stack development.
 
-- 👯 I’m looking to collaborate on open source projects.
-
+- 👯 I’m open for new opportunies and i am also looking to collaborate on open source projects.
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bornittah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bornittah" height="30" width="40" /></a>
