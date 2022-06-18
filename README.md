@@ -5,7 +5,7 @@
 
 - 🌱  I’m currently a student at Microverse learning full-stack development.
 
-- 👯 I’m open for new opportunies and i am also looking to collaborate on open source projects.
+- 👯 I’m open to new opportunies and i am also looking to collaborate on open source projects.
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
